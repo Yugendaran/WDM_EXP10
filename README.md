@@ -32,6 +32,7 @@ To create a project for Sentimental Analysis on Any Dataset a Using Rapidminer
 ### Output:
 
 Name: YUGENDARAN G
+
 Register No: 212221220063
 
 ![326148171-563e2378-9c07-4478-aab2-f9ba8bb61917](https://github.com/RuchithaReddy28/WDM_EXP10/assets/93427261/a44bba5f-f404-4e78-ab4d-c62212624eb2)
